@@ -13,11 +13,11 @@ Tutorial:
 
 2. 在从节点上运行 img/yarn/agent_bootstrap.sh
 
-三、使用kubernetes拉起镜像
-`"Bash
+三、使用kubernetes拉起镜像</br>
+```Bash
 kubectl create -f yarn_master-service.yaml
 
 kubectl create -f yarn_master-controller.yaml
 
 kubectl create -f yarn_agent-controller.yaml
-`"
+```
