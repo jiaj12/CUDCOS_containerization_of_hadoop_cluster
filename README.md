@@ -1,2 +1,2 @@
-# CUDCOS_containerization_hadoop_cluster
+# CUDCOS_containerization_of_hadoop_cluster
 hadoop平台集群容器化
